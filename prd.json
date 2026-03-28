@@ -1,0 +1,214 @@
+{
+  "product": "VapoFil",
+  "model": "B",
+  "url": "https://vapofil.com/",
+  "lang": "en",
+  "country": "us",
+  "checkout": {
+    "us": "https://instituto-experience.mycartpanda.com/checkout/206473600:1"
+  },
+  "design": {
+    "brand": "#1d4ed8",
+    "brandDark": "#1e3a8a",
+    "brandLight": "#dbeafe",
+    "cta": "#16a34a",
+    "ctaDark": "#15803d",
+    "ctaSecondary": "#facc15",
+    "textDark": "#0f172a",
+    "textBody": "#374151",
+    "textLight": "#6b7280",
+    "bgWhite": "#ffffff",
+    "bgGray": "#f9fafb"
+  },
+  "offer": {
+    "original": 1074,
+    "current": 294,
+    "savings": 780,
+    "discountPct": 73,
+    "guaranteeDays": 60,
+    "perBottle": 49,
+    "shipping": "FREE"
+  },
+  "packages": [
+    {
+      "name": "1 BOTTLE",
+      "supply": "30 Day Supply",
+      "original": 179,
+      "current": 89,
+      "perBottle": 89,
+      "savings": 90,
+      "shipping": "PAID"
+    },
+    {
+      "name": "6 BOTTLES",
+      "supply": "180 Day Supply",
+      "original": 1074,
+      "current": 294,
+      "perBottle": 49,
+      "savings": 780,
+      "shipping": "FREE",
+      "best": true
+    },
+    {
+      "name": "3 BOTTLES",
+      "supply": "90 Day Supply",
+      "original": 537,
+      "current": 177,
+      "perBottle": 59,
+      "savings": 360,
+      "shipping": "FREE"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Try VapoFil",
+    "h1": "The World's #1 Natural Formula That Supports Men's Virility, Energy and Vitality",
+    "p1": "A meticulously developed supplement with selected ingredients and nutrients that promote maximum male health.",
+    "p2": "VapoFil combines potent natural extracts with proven action through a multifaceted scientific approach to optimize male health.",
+    "p3": "Order today and experience the transformation within weeks."
+  },
+  "what": {
+    "p1": "VapoFil is a natural male health supplement designed to support virility, energy and vitality.",
+    "p2": "Our formula contains strong ingredients in the ideal dosage, carefully blended to complement each other.",
+    "p3": "All ingredients are rigorously tested for quality and safety in FDA-registered, GMP-certified facilities.",
+    "p4": "Perfect for men who want to reclaim their confidence and performance."
+  },
+  "steps": [
+    {
+      "title": "Optimizes Free Testosterone",
+      "description": "Uses Saw Palmetto and Boron to optimize free testosterone levels for better energy and performance."
+    },
+    {
+      "title": "Improves Circulation",
+      "description": "Horny Goat Weed increases nitric oxide for improved blood flow and firmer erections."
+    },
+    {
+      "title": "Supports Prostate Health",
+      "description": "Saw Palmetto, Nettle and Boron work together to support prostate health and hormone balance."
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "Tongkat Ali",
+      "description": "Known as Malaysian ginseng, stimulates free testosterone production and improves libido."
+    },
+    {
+      "name": "Horny Goat Weed",
+      "description": "Contains icariin, improves blood flow to intimate regions for firmer erections."
+    },
+    {
+      "name": "Saw Palmetto",
+      "description": "Supports prostate health and testosterone regulation, reduces DHT impact."
+    },
+    {
+      "name": "Sarsaparilla Root",
+      "description": "Promotes energy, vitality, and physical endurance."
+    },
+    {
+      "name": "Nettle Leaf Extract",
+      "description": "Releases more free testosterone by inhibiting SHBG binding."
+    },
+    {
+      "name": "Boron Amino Acid Chelate",
+      "description": "Increases testosterone levels and reduces inflammation."
+    }
+  ],
+  "benefits": [
+    "Increased libido and sexual desire",
+    "Improved circulation and sexual health",
+    "Enhanced physical stamina and vigor",
+    "Greater confidence in sexual performance",
+    "Optimized testosterone levels",
+    "Better energy and vitality",
+    "Support for prostate health",
+    "Reduced stress and cortisol"
+  ],
+  "reviews": [
+    {
+      "name": "Michael Thompson",
+      "location": "Houston, Texas",
+      "text": "If it wasn't for VapoFil, I'd still be feeling stuck and wondering if I'd ever regain my confidence and vitality. It changed everything!",
+      "rating": 5
+    },
+    {
+      "name": "James Miller",
+      "location": "Denver, Colorado",
+      "text": "I was skeptical at first, but VapoFil completely turned my life around. I wake up each day with focus and confidence!",
+      "rating": 5
+    },
+    {
+      "name": "Robert Anderson",
+      "location": "San Diego, California",
+      "text": "Within weeks everything started to shift. Thanks to VapoFil, I'm more energized and driven than ever!",
+      "rating": 5
+    }
+  ],
+  "guarantee": {
+    "title": "60-Day Satisfaction Guarantee",
+    "p1": "Our supplements are backed by a 60-day money-back guarantee from the date of purchase.",
+    "p2": "If after at least 30 days of use you are not completely satisfied, simply contact us for a full refund."
+  },
+  "faq": [
+    {
+      "q": "How and why does VapoFil work?",
+      "a": "VapoFil combines potent natural extracts through a multifaceted scientific approach to optimize male health. It increases testosterone, improves circulation, supports prostate health, and enhances energy and libido."
+    },
+    {
+      "q": "Is VapoFil safe for me?",
+      "a": "Yes. VapoFil is produced in FDA-registered, GMP-certified facilities in the United States with all-natural, stimulant-free, gluten-free ingredients."
+    },
+    {
+      "q": "How and when should I take VapoFil?",
+      "a": "We recommend taking 2 capsules daily, preferably in the morning with a glass of water."
+    },
+    {
+      "q": "How many bottles should I order?",
+      "a": "Most customers choose the 6-bottle kit for the biggest discount and free shipping. The longer you use it, the more consistent and lasting the results."
+    },
+    {
+      "q": "Can you remind me about the guarantee?",
+      "a": "Absolutely! VapoFil is backed by an unconditional 60-day guarantee. You have two full months to test the product at your own pace."
+    },
+    {
+      "q": "How long will VapoFil be available?",
+      "a": "Stock is limited and can run out quickly. We recommend securing your kit today while supplies last."
+    }
+  ],
+  "usage": {
+    "dose": "2 capsules daily",
+    "time": "morning",
+    "tip": "Take with a glass of water for best results"
+  },
+  "badges": {
+    "usa": true,
+    "fda": true,
+    "gmp": true,
+    "natural": true,
+    "glutenFree": true
+  },
+  "rating": {
+    "score": 4.98,
+    "count": "1,300+"
+  },
+  "bonuses": [
+    {
+      "name": "365 Positions of the Kama Sutra",
+      "value": 69
+    },
+    {
+      "name": "Master of Orgasm",
+      "value": 77
+    },
+    {
+      "name": "Memorable Preliminaries",
+      "value": 49
+    },
+    {
+      "name": "The Power Challenge",
+      "value": 39
+    },
+    {
+      "name": "Personalized Usage Guide",
+      "value": 39
+    }
+  ]
+}
